@@ -2,7 +2,7 @@
 
 IronBar is a Mac-style dock for Windows 10 and 11. Pin your favorite apps, turn on hover magnification, and keep music controls, weather or a focus timer beside your shortcuts. Choose a Liquid Glass theme and place the dock at the bottom, left or right edge of your desktop.
 
-[Try the interactive demo](https://www.ironthes.store/#dock-demo) · [Watch the 38-second preview](https://www.ironthes.store/assets/ironthese-promo.mp4) · [Get IronBar for Windows — $5 once](https://www.ironthes.store/#pricing)
+[Try the interactive demo](https://www.ironthes.store/#dock-demo) · [Watch the 38-second preview](https://www.ironthes.store/assets/ironthese-promo.mp4) · [Get IronBar for Windows — $4.99 once](https://www.ironthes.store/#pricing)
 
 ![IronBar Clear Glass dock on a Windows desktop](https://www.ironthes.store/assets/shots/clear-glass-desktop.png)
 
